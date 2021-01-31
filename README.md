@@ -5,11 +5,23 @@ Dette er for en ordinær bolig på 107 m² uten vannmåler som har egne
 avfallsdunker.
 
 Satsene er for 2021. Kan ikke garantere at det stemmer, men basert på fjoråret
-så tror jeg dette skal være riktig.
+så tror jeg dette skal være riktig. Blir spennende å se når jeg får regningen.
 
 For å kjøre:
 
     $ python3 komm.py
+
+    Forbruk vann       1471.25
+    Forbruk avløp      2220.25
+    Abbonnement vann    561.75
+    Abbonnement avløp  1016.50
+    Grunngebyr          785.00
+    Restavfall 240l    2826.00
+    Papiravfall         393.00
+    Bioavfall          1178.00
+    ==========================
+    Total per år      10451.75
+    Total per halvår   5225.88
 
 Du kan endre variabelen `kvm` for ditt tilfelle for å beregne pris.
 
