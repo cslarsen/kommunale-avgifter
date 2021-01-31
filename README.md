@@ -1,4 +1,4 @@
-Utregning av kommunale avgifter i Sandnes kommune.
+Utregning av kommunale avgifter i Sandnes kommune
 ===
 
 Dette er for en ordinær bolig på 107 m² uten vannmåler som har egne
