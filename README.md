@@ -11,6 +11,9 @@ For å kjøre:
 
     $ python3 komm.py
 
+    Kvadratmeter bolig: 107
+    Momssats: 1%
+
     Forbruk vann       1471.25
     Forbruk avløp      2220.25
     Abbonnement vann    561.75
