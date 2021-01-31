@@ -11,14 +11,14 @@ moms = 1.25
 # 2021: uten vannmåler
 # priser tatt (uten moms) fra nettsiden over
 post = {
-    "forbruk vann": kvm * 11.00,
-    "forbruk avløp": kvm * 16.60,
-    "abbonnement vann": kvm * 4.20,
-    "abbonnement avløp": kvm * 7.60,
-    "grunngebyr": 785 / moms,
-    "restavfall 240l": 2826 / moms,
-    "papiravfall": 393 / moms,
-    "bioavfall": 1178 / moms,
+    "forbruk vann": kvm * 11.00,  # Eks mva
+    "forbruk avløp": kvm * 16.60,  # Eks mva
+    "abbonnement vann": kvm * 4.20,  # Eks mva
+    "abbonnement avløp": kvm * 7.60,  # Eks mva
+    "grunngebyr": 785 / moms,  # Oppgitt uten mva
+    "restavfall 240l": 2826 / moms,  # Oppgitt uten mva
+    "papiravfall": 393 / moms,  # Oppgitt uten mva
+    "bioavfall": 1178 / moms,  # Oppgitt uten mva
 }
 
 # Under stemmer god med 2020 og regningen jeg fikk
