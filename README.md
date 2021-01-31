@@ -4,8 +4,11 @@ Utregning av kommunale avgifter i Sandnes kommune
 Dette er for en ordinær bolig på 107 m² uten vannmåler som har egne
 avfallsdunker.
 
-Satsene er for 2021. Kan ikke garantere at det stemmer, men basert på fjoråret
-så tror jeg dette skal være riktig. Blir spennende å se når jeg får regningen.
+[Satsene er for
+2021](https://www.sandnes.kommune.no/teknisk-og-eiendom/vann-avlop-og-renovasjon/kommunale-avgifter/).
+
+Kan ikke garantere at utregningen stemmer, men det ser riktig ut med fjorårets
+tall.
 
 For å kjøre:
 
