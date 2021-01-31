@@ -37,6 +37,10 @@ total = sum(post.values())
 post["total per år"] = total
 post["total per halvår"] = total / 2
 
+print("Kvadratmeter bolig:", kvm)
+print("Momssats: %.0f%%" % (100.0 * (moms - 1)))
+print("")
+
 width = max(len(x) for x in post.keys())
 
 for navn, pris in post.items():
